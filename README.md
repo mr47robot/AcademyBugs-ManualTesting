@@ -37,7 +37,7 @@ If you’d like to contribute, feel free to fork the repository, create a branch
 For any inquiries or collaboration opportunities:
 - **GitHub**: [mr47robot](https://github.com/mr47robot)
 - **Email**: [mohamed.ashraf.youssef.98@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/mohamed-ashraf-ab5805243/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/mohamed-ashraf-ab5805243/]
 
 ---
 ⚡ *Happy Testing!* 🚀
